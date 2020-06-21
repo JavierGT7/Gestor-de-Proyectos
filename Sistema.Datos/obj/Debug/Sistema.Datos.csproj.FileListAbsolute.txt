@@ -1,0 +1,8 @@
+C:\Users\jsanc\source\repos\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\jsanc\source\repos\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\jsanc\source\repos\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\jsanc\source\repos\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\jsanc\source\repos\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csprojAssemblyReference.cache
+C:\Users\jsanc\source\repos\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\jsanc\source\repos\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\jsanc\source\repos\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
